@@ -1,0 +1,11 @@
+for router 1,
+Router(config)# Router rip
+Router(config-router) #version 2
+Router(config-router) #network 192.168.1.0
+Router(config-router) #network 10.0.0.0
+
+for router 2,
+Router(config)# Router rip
+Router(config-router) #version 2
+Router(config-router) #network 192.168.3.0
+Router(config-router) #network 10.0.0.0
