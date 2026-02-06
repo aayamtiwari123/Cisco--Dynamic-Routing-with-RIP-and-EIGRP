@@ -48,6 +48,4 @@ Dynamic routing is configured using **EIGRP** and **RIP** to automatically share
 
 ## 🖼 Topology
 
-![Full Network Topology](Images/topology.png)
-
-![Network Topology](topology/topology.png)
+![Network Topology](Images/topology.png)
